@@ -1,6 +1,6 @@
 # Interfaz-micromote
 
-Final code of micromote interface
+Final code for micromote interface
 PFC Jorge Jiménez Rodríguez, Universidad Carlos III de Madrid
 
 Files:
