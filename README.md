@@ -1,11 +1,12 @@
 # Interfaz-micromote
 
-Final code for Micromote Interface.
+Final code for MicroMote Interface.
 PFC Jorge Jiménez Rodríguez, Universidad Carlos III de Madrid.
 
 Files:
-values.c and values.h for programming the microcontroller.
 
-bt_client_def.c for running on PC.
+'values.c' and 'values.h' , for programming the microcontroller.
 
-soporte.scad and tapa.scad , Openscad scripts for designing the 3D mounting.
+'bt_client_def.c' , for running on PC.
+
+'soporte.scad' and 'tapa.scad' , Openscad scripts for designing the 3D mounting.
